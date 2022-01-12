@@ -39,7 +39,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "nodemon -x node index.js || touch index.js",
+    "start": "index.js",
     "test": "node test.js"
   },
   "repository": {
