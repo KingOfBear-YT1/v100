@@ -2,7 +2,7 @@
   "name": "BOTV11",
   "version": "1.0.0",
   "description": "By King Of Bear Official",
-  "main": "main.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
