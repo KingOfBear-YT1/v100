@@ -1,5 +1,5 @@
 {
-  "name": "king-of-bear",
+  "name": "v100",
   "version": "1.0.0",
   "description": "bot whatsapp melcanz.com",
   "depecrated": false,
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melcanz/melcanz-bot.git"
+    "url": "git+https://github.com/saipulanuar/v100.git"
   },
   "keywords": [
     "bot",
@@ -27,9 +27,9 @@
   "author": "melcanz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/melcanz/melcanz-bot/issues"
+    "url": "https://github.com/saipulanuar/v100/issues"
   },
-  "homepage": "https://github.com/melcanz/melcanz-bot#readme",
+  "homepage": "https://github.com/saipulanuar/v100#readme",
   "dependencies": {
     "@adiwajshing/baileys": "github:melcanz/Baileys",
     "awesome-phonenumber": "^2.62.1",
