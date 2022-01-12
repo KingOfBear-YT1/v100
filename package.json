@@ -39,8 +39,11 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "index.js",
+    "start": "nodemon -x node index.js || touch index.js",
     "test": "node test.js"
+  },
+   "nodemonConfig": {
+    "ext": "js,html,sh"
   },
   "repository": {
     "type": "git",
